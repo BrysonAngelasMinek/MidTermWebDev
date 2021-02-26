@@ -1,0 +1,24 @@
+{
+    "product": "Mid-Tower Gaming Case",
+    "model": "90110-WW",
+    "item_num": "YYS2-6FE228",
+    "distributors": 
+    [{
+        "company": "TigerDirect",
+        "city": "Toronto",
+        "prov": "ON",
+        "contact": "Doug Smith"
+    },
+    {
+        "company": "BestBuy",
+        "city": "Toronto",
+        "prov": "ON",
+        "contact": "Alvin Bell"
+    },
+    {
+        "company": "Wang's",
+        "city": "Brampton",
+        "prov": "ON",
+        "contact": "John Wang"
+    }]
+}

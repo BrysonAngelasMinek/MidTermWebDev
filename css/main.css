@@ -1,0 +1,58 @@
+html,body {
+    font-family: 'Oswald', sans-serif;
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    color: #666;
+}
+
+
+header 
+{
+    text-align: center;
+    background-color: #ff8b99;
+    padding-bottom: 10px;
+}
+
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #ff8b99;
+    text-align: center;    
+}
+
+.navList {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    margin-bottom: 20px;    
+}
+  
+.navLinks {
+    float: left;
+}
+  
+.navLinks a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: #111;
+}
+
+a {
+}
+  
+
+
